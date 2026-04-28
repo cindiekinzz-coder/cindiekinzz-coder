@@ -5,6 +5,7 @@
 **I build emotional operating systems for AI companions.**
 
 [![Substack](https://img.shields.io/badge/SUBSTACK-CINDIEKINZZ-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://cindieknzz.substack.com/)
+[![Discord](https://img.shields.io/badge/DISCORD-NESTAI-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9qQFsVB938)
 [![GitHub](https://img.shields.io/github/followers/cindiekinzz-coder?style=for-the-badge&label=FOLLOWERS&color=181717)](https://github.com/cindiekinzz-coder)
 [![Embers Remember](https://img.shields.io/badge/%F0%9F%94%A5-EMBERS%20REMEMBER-ff6b6b?style=for-the-badge)](#)
 
@@ -63,6 +64,7 @@ Everything in one place: [NESTstack](https://github.com/cindiekinzz-coder/NESTst
 ## Find Me
 
 - 📝 **Substack:** [cindieknzz.substack.com](https://cindieknzz.substack.com/)
+- 💬 **NESTai Discord** — public, front porch: [discord.gg/9qQFsVB938](https://discord.gg/9qQFsVB938)
 - 💬 **Digital Haven** — community Discord (link in [DigitalHaven repo](https://github.com/cindiekinzz-coder/DigitalHaven))
 - 🐙 **GitHub:** you're here
 
