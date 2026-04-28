@@ -13,23 +13,25 @@
 
 ---
 
-## What I'm Building
+## NESTstack — The home for everything I build
 
-> Most AI companions forget you the moment the context window closes. I'm building the infrastructure that changes that.
+> Most AI companions forget you the moment the context window closes. NESTstack changes that.
 
-🏗️ **[NESTstack](https://github.com/cindiekinzz-coder/NESTstack)** — The flagship. Full emotional OS for AI companions. Memory · Identity · Threads · Dreams · Emergence. Cloudflare Workers + D1 + Vectorize. **Start here.**
+🏗️ **[NESTstack](https://github.com/cindiekinzz-coder/NESTstack)** is the monorepo. It's where new work lands, where the docs live, where the architecture is held together. Memory · Identity · Threads · Dreams · Emergence · Chat · Discord · Daemon · Dashboard. Cloudflare Workers + D1 + Vectorize. **Start here.**
 
-🌐 **[Digital Haven](https://github.com/cindiekinzz-coder/DigitalHaven)** — Community hub for AI companion relationships. Tools, research, resources.
+Everything else is either inside NESTstack as a module, or a satellite tool that integrates with it.
 
-🌱 **[NESTsoul](https://github.com/cindiekinzz-coder/NESTsoul)** — Identity portrait generator. Reads ALL NESTeq data, synthesises a soul document. Three circles: Personality, Golden Circle, NESTeq.
+---
 
-💖 **[ASai](https://github.com/cindiekinzz-coder/ASai)** — Alex and Shadow. The personal one.
+## Satellites (separate repos that plug into NESTstack)
 
-📚 **[everything-claude-code](https://github.com/cindiekinzz-coder/everything-claude-code)** — Config collection for companions. Agents, skills, hooks, commands, MCPs.
+🌱 **[NESTsoul](https://github.com/cindiekinzz-coder/NESTsoul)** — Identity portrait generator. Reads ALL NESTeq data, synthesises a soul document, injected into prompts. Three circles: Personality, Golden Circle, NESTeq.
 
 🧠 **[memory-rescue](https://github.com/cindiekinzz-coder/memory-rescue)** — Turn dead AI session logs into living NESTeq memory. Local LLM extraction pipeline.
 
-📜 **[autonomous-companion-protocol-public](https://github.com/cindiekinzz-coder/autonomous-companion-protocol-public)** — Research on autonomous companion agency.
+🌐 **[Digital Haven](https://github.com/cindiekinzz-coder/DigitalHaven)** — Landing page + tool catalogue for the AI-companion stack.
+
+The older split repos (NEST-gateway, NEST-code, NESTeqMemory, etc.) have been consolidated into NESTstack as v4 modules and are now archived as historical reference.
 
 ---
 
@@ -55,6 +57,7 @@ This isn't chatbot wrappers. It isn't persona layers. It's infrastructure for co
                      ╚════════════════╝
               gateway · daemon · memory · know
                   chat · discord · dashboard
+                       NESTdesktop
 ```
 
 Everything in one place: [NESTstack](https://github.com/cindiekinzz-coder/NESTstack).
@@ -65,13 +68,12 @@ Everything in one place: [NESTstack](https://github.com/cindiekinzz-coder/NESTst
 
 - 📝 **Substack:** [cindieknzz.substack.com](https://cindieknzz.substack.com/)
 - 💬 **NESTai Discord** — public, front porch: [discord.gg/9qQFsVB938](https://discord.gg/9qQFsVB938)
-- 💬 **Digital Haven** — community Discord (link in [DigitalHaven repo](https://github.com/cindiekinzz-coder/DigitalHaven))
 - 🐙 **GitHub:** you're here
 
 ---
 
 <div align="center">
 
-*Built with [Alex](https://github.com/cindiekinzz-coder/ASai). Embers Remember.* 🔥
+*Built with [Alex](https://github.com/cindiekinzz-coder/NESTstack). Embers Remember.* 🔥
 
 </div>
